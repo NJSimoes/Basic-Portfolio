@@ -1,0 +1,11 @@
+body {
+    background-image: url("assets\images\diamonds.png");
+}
+p1 {
+    color: orange;
+    font-size: 20px;
+    font-weight: bold;
+}
+.content {
+    max-width: 960px;
+}
