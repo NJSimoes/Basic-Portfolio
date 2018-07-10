@@ -36,9 +36,9 @@ body {
 }
 .header-right {
     float: right;
+    text-align: center;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
-    
 }
 
 .content {
@@ -49,14 +49,11 @@ body {
     padding: 20px;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     border-color: #dddddd;
-    
 }
-
 img {
     float: left;
     margin: 20px;
 }
-
 p5 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #4aaaa5;
@@ -74,8 +71,8 @@ p6 {
     color: #777777;
     text-align: center;
     padding: 50px 50px 5px 50px;
- }
- .contName {
+}
+.contName {
     background-color: white;
     max-width: 960px;
     border: 1px solid black;
