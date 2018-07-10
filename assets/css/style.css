@@ -56,7 +56,6 @@ img {
     float: left;
     margin: 20px;
 }
-    
 
 p5 {
     font-family: 'Georgia', Times, Times New Roman, serif;
@@ -118,4 +117,9 @@ p6 {
     height: 30px;
     padding: 5px;
     margin: 25px;
+}
+.line {
+    width: 960px;
+    border: 2px solid #dddddd;
+    margin: auto;
 }
