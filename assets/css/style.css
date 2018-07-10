@@ -98,3 +98,13 @@ p6 {
     padding: 5px;
     margin: 25px;
 }
+.whiteBox {
+    width:960px;
+    height: 900px;
+    border: 1px solid black;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    border-color: #dddddd;
+}
